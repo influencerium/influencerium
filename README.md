@@ -3,7 +3,7 @@
 > A creator-brand collaboration platform connecting influencers with brands for campaigns, contests, and exclusive deals.
 
 [![Status](https://img.shields.io/badge/Status-In%20Development-blue)](https://github.com/yourusername/influencerium)
-[![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue)](./LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-20.x-brightgreen)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react)](https://react.dev/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15.x-336791?logo=postgresql)](https://www.postgresql.org/)
@@ -198,8 +198,14 @@ influencerium/
 
 ## 📄 License
 
-This project is licensed under the MIT License - see [LICENSE](./LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see [LICENSE](./LICENSE) file for details.
 
+**Key benefits of Apache 2.0:**
+- ✅ Explicit patent grant and protection
+- ✅ Patent retaliation clause
+- ✅ Clear terms for commercial use
+- ✅ Professional and enterprise-friendly
+- ✅ Better legal protection than MIT
 ## 🙏 Acknowledgments
 
 Built with ❤️ by the Influencerium Team
