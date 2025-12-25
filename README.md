@@ -192,7 +192,7 @@ influencerium/
 ## 📞 Support
 
 - 📧 **Email:** support@influencerium.com
-- 💬 **Discord:** [Join Community](https://discord.gg/influencerium)
+- 💬 **Discord:** [Join Community](https://discord.gg/gmgTYBVb5S)
 - 🐛 **Issues:** [GitHub Issues](https://github.com/yourusername/influencerium/issues)
 - 📖 **Docs:** [docs.influencerium.com](https://docs.influencerium.com)
 
